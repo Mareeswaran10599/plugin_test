@@ -1,7 +1,7 @@
 name: plugin_test
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+homepage: "https://github.com/Mareeswaran10599/plugin_test.git"
 
 environment:
   sdk: '>=3.4.0 <4.0.0'
